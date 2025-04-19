@@ -9,5 +9,5 @@ There, a pop up will appear with options. Here, click on the "Open with Live Ser
 
 Dependcies/Environmental Details
 
-In order for my project to work, the dependencies required include Magenta, and MusicVAE. My depends on these in order to provide sound, ensure that the latent spaces is being implemented correctly 
-and is being used within the application.
+In order for my project to work, the dependencies required include Magenta, the Melody class and MusicVAE. My code depends on these in order to provide sound, ensure that the latent spaces is being implemented correctly 
+and is being used within the application. The environmental details are that the code is being run on a MacOS operating system. The hardware that the program is being run from is that it has a memory of 8 GB, and it has a storage space of 494.38 GB.
